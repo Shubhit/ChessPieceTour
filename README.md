@@ -28,7 +28,7 @@ For details of Warnsdorff's Rule: https://en.wikipedia.org/wiki/Knight%27s_tour
 
 ## Disclaimer:
 
-Warnsdorff's rule does not perform well for boards of dimension > 50 * 50, as the random selection in tie-breaking scenario progressively leads to ~0 probability of successfully finding a tour. Multiple studies have been done that suggest various tie-breaking rules depending on size of the board and starting position of the piece, to improve the successful identification of a tour.
+Warnsdorff's rule does not perform well for boards of dimension > 50 * 50, as the random selection in tie-breaking scenario progressively leads to ~0 probability of successfully finding a tour. Multiple studies have been done that suggest various tie-breaking rules depending on size of the board and starting position of the piece, to improve the probability of successful identification of a tour.
 
 ## Run all tests:
 
